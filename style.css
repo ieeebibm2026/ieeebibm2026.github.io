@@ -1,0 +1,22 @@
+
+  
+body {
+    color: white; /* 设置文本颜色为白色 */
+    font-size: 20px;
+  }
+
+  
+a {
+color: rgb(0,255,0); /* 设置链接颜色为绿色 */
+transition: color 0.3s ease;
+}
+a:hover {
+    color: rgb(0,255,0);
+  }
+
+#speechers img {
+  width: 100%; /* 使图片宽度适应父容器 */
+  height: auto; /* 保持图片的纵横比 */
+}
+
+
